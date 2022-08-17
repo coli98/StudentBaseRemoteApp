@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RetrofitRxJava</string>
+    <string name="status">Status</string>
+    <string name="note">Note</string>
+    <string name="body">Body</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="title">Title</string>
+    
+    <string name="dialog_btn_save">Save</string>
+    <string name="dialog_btn_delete">Delete</string>
+    <string name="dialog_delete_task">Delete!</string>
+    <string name="dialog_delete_msg">Do you want to delete?</string>
+    <string name="dialog_success_title">Success!</string>
+    <string name="dialog_success_msg">Task added successfully</string>
+    <string name="dialog_editsuccess_msg">Task updated successfully</string>
+    <string name="dialog_deleted_task_msg">Task deleted successfully</string>
+    <string name="search">Search</string>
+</resources>
